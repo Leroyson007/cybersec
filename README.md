@@ -1,2 +1,2 @@
 # cybersec
-pratqiues
+pratiques
